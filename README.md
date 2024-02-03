@@ -1,2 +1,2 @@
 # soil_comp
-Comparison between Hawaii and Mainland soils
+Comparison between Hawaii and continental soils
